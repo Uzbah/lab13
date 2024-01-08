@@ -13,6 +13,7 @@ public class NumberUtils {
 	            }
 	        }
 	        return max;
+		  return numbers;
 	    }
 
 	    public int findMin(int[] numbers) {
